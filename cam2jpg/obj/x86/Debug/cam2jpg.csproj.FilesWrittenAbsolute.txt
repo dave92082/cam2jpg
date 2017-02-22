@@ -1,0 +1,5 @@
+/home/david/Development/mono/cam2jpg/cam2jpg/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/david/Development/mono/cam2jpg/cam2jpg/bin/Debug/cam2jpg.exe.mdb
+/home/david/Development/mono/cam2jpg/cam2jpg/bin/Debug/cam2jpg.exe
+/home/david/Development/mono/cam2jpg/cam2jpg/obj/x86/Debug/cam2jpg.exe
+/home/david/Development/mono/cam2jpg/cam2jpg/obj/x86/Debug/cam2jpg.exe.mdb
